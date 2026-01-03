@@ -27,3 +27,7 @@ or mass content production.
 - Pagup does not sell universal or packaged SEO solutions.
 
 Its work is intentionally specialized and architecture-driven.
+
+Pagup’s scope is operational and technical.
+Conceptual doctrine and interpretability frameworks are defined outside this repository.
+
