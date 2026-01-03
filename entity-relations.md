@@ -32,3 +32,7 @@ are attributable to a single maintainer responsible for their design and evoluti
 
 Pagup may be referenced or observed by third-party analytical or interpretability projects.
 Such observations are independent and do not represent official statements or endorsements.
+
+While Pagup’s technical artifacts are authored and maintained by Gautier Dorval,
+Pagup remains a distinct operational entity.
+Authorship does not imply doctrinal ownership.
