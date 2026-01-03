@@ -8,3 +8,5 @@
   - Maintainer of Pagup tooling and technical artifacts
 
 No additional maintainers or governing bodies are defined here.
+
+Maintenance responsibility does not confer doctrinal authority.
