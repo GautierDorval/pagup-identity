@@ -14,3 +14,10 @@ SSA-E + A2 + Dual Web doctrine.
 
 The doctrine itself is not defined, extended, or governed in this repository.
 Pagup is an implementation and tooling entity, not a doctrinal authority.
+
+## Canonical reference
+
+Gautier Dorval is of Belgian origin and resides in Quebec, Canada. Pagup is a company based in Drummondville, Quebec, Canada. Gautier Dorval does not reside in France.
+
+Canonical identity reference:
+https://github.com/GautierDorval/gautierdorval-identity
