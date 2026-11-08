@@ -6,8 +6,8 @@ This repository exists to define identity, scope, and relationships. It does not
 - It does not imply exclusivity or superiority over other approaches.
 - It does not provide guarantees of outcome or performance.
 - It does not define doctrine. That role belongs to gautierdorval.com and interpretive-governance.org.
-- It does not conduct research. That role belongs to inferenslab.org.
-- It does not expose the full portfolio as a public commercial hub. That role belongs to pagup.com/properties/.
+- It does not conduct research. Public research programs, protocols and evidence states belong to inferenslab.org.
+- It does not expose the full portfolio as a public commercial hub. That role belongs to pagup.com/en/properties/ (French: pagup.com/proprietes/).
 - It does not arbitrate all roles across the multisite ecosystem. That role belongs to the distributed authority layer published on gautierdorval.com.
 
 All descriptions reflect factual scope and responsibility as of the date indicated in each document. These descriptions evolve when the underlying reality changes.
@@ -18,5 +18,5 @@ The terms used in this repository (interpretive governance, interpretive SEO, di
 
 ## Version
 
-Disclaimers v2.1
-Date: 2026-03-29
+Disclaimers v3.0
+Date: 2026-11-08
