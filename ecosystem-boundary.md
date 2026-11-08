@@ -8,7 +8,7 @@ This document clarifies the boundary between four distinct layers:
 
 2. **Public commercial exposure**
    - How Pagup publicly presents its services, proofs, and properties.
-   - Maintained on https://pagup.com and https://pagup.com/properties/.
+   - Maintained on https://pagup.com and https://pagup.com/en/properties/ (French: https://pagup.com/proprietes/).
 
 3. **Doctrine and standard**
    - What defines interpretive governance, interpretive SEO, and related concepts.
@@ -30,7 +30,9 @@ then the conflict must be resolved by preserving the role of each surface rather
 
 This repository therefore points upward, but does not absorb those other roles.
 
+Product documentation and research evidence are maintained on their own reference surfaces, such as product sites and inferenslab.org. None of the four layers above absorbs them.
+
 ## Version
 
-Ecosystem boundary v1.0
-Date: 2026-03-29
+Ecosystem boundary v1.1
+Date: 2026-11-08
