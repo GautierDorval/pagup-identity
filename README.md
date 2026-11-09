@@ -50,6 +50,6 @@ The doctrine itself is defined on [gautierdorval.com](https://gautierdorval.com/
 
 ## Version
 
-Identity v3.0 — 2026-11-08
+Identity v3.1 — 2026-11-09
 
-Each file carries its own version and revision date. Previous versions, including v2.1 (2026-03-29), remain available in the Git history. The published state of this repository is the content of its `main` branch; a revision prepared on another branch is not published until it is merged.
+Each file carries its own version and revision date. Previous versions, including v3.0 (2026-11-08) and v2.1 (2026-03-29), remain available in the Git history. The published state of this repository is the content of its `main` branch; a revision prepared on another branch is not published until it is merged.

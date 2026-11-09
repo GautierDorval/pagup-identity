@@ -1,12 +1,12 @@
 # Canonical company information — Pagup
 
-## Canonical statement (v3.0)
+## Canonical statement (v3.1)
 
 Pagup is a digital readability and agentic readiness firm based in Drummondville, Quebec, Canada. It is founded and operated by Gautier Dorval.
 
 Its work combines strategic advice, on-page SEO, semantic architecture, qualitative examination of AI-generated representations and conclusions, machine-first implementation, and software development. The scope, deliverables and verification criteria of each engagement are defined for the agreed context. Product documentation and research evidence remain on their respective reference surfaces.
 
-Gautier Dorval is an on-page SEO consultant, a semantic architect, and a designer and developer of software tools and digital environments. He is of Belgian origin and resides in Quebec, Canada. Gautier Dorval does not reside in France.
+Gautier Dorval is an on-page SEO consultant, a semantic architect, and a designer and developer of software tools and digital environments.
 
 ## Nature of the organization
 
@@ -54,5 +54,5 @@ https://github.com/GautierDorval/gautierdorval-identity
 
 ## Version
 
-Company canonical v3.0
-Date: 2026-11-08
+Company canonical v3.1
+Date: 2026-11-09
