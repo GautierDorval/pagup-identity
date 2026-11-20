@@ -16,7 +16,9 @@ All descriptions reflect factual scope and responsibility as of the date indicat
 
 The terms used in this repository (interpretive governance, interpretive SEO, digital readability, semantic architecture, machine-first, etc.) are defined canonically on [gautierdorval.com/definitions/](https://gautierdorval.com/definitions/). This repository uses them but does not define them.
 
+The same applies to reconstruction fidelity, used in `scope.md`. The [fidelity term map](https://github.com/GautierDorval/interpretive-governance-manifest/blob/main/concepts/fidelity-term-map.md) separates that concept from applicability fidelity, evidence of fidelity and metrics with similar names, and states what each one assesses. Using the term in an engagement does not make reconstruction fidelity a Pagup concept, and it does not turn engagement observations into measured results.
+
 ## Version
 
-Disclaimers v3.0
-Date: 2026-11-08
+Disclaimers v3.1
+Date: 2026-11-20
