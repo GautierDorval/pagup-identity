@@ -27,6 +27,19 @@ Pagup intervenes within engagements whose scope, expected outcomes and any deliv
 
 The current list of services is published on pagup.com: [pagup.com/en/services/](https://pagup.com/en/services/) (French: [pagup.com/services/](https://pagup.com/services/)). This file does not create packages, availability or universal deliverables.
 
+### Reconstruction fidelity in representation work
+
+When an AI system describes an organization or recommends an offer, it reconstructs information from several sources. Some Pagup engagements address that representation: they make explicit, in controlled sources, the elements that keep a description accurate and applicable (eligibility conditions, location, exclusions, service boundaries and the available level of evidence), then examine what generated answers preserve.
+
+The property examined is reconstruction fidelity, an entry term for interpretive fidelity in the context of AI-generated answers. Each surface below keeps a distinct role:
+
+- **Definition**, in the author corpus of Gautier Dorval: [interpretive fidelity](https://gautierdorval.com/en/definitions/interpretive-fidelity/) (French: [fidélité interprétative](https://gautierdorval.com/definitions/fidelite-interpretative/)). It defines the concept. Pagup applies it and does not define it.
+- **Guide**: [reconstruction fidelity in AI-generated answers](https://gautierdorval.com/en/reconstruction-fidelity/) (French: [fidélité de reconstruction](https://gautierdorval.com/fidelite-de-reconstruction/)). It explains how to assess an answer against a precise question and an identifiable reference, with a bounded public example.
+- **Service**: [AI representation stabilization](https://pagup.com/en/services/ai-representation-stabilization/) (French: [stabilisation de représentation IA](https://pagup.com/services/stabilisation-de-representation-ia/)). It describes the intervention on controlled sources and its limits.
+- **Method**: [applicability fidelity test protocol](https://pagup.com/en/method/applicability-fidelity-test-protocol/) (French: [protocole de test de fidélité d’applicabilité](https://pagup.com/methode/protocole-test-fidelite-applicabilite/)). It is a proposed protocol for applicability conditions, not a validated method.
+
+Observations made during an engagement describe the sources, questions and answers of that engagement. They are not a validated fidelity score, an independent validation of the concept or a guarantee that a third-party system will preserve the same elements.
+
 ### Governance artifacts
 
 Examples of machine-readable governance surfaces that Pagup publishes on its own site and may implement within an engagement:
@@ -72,5 +85,5 @@ Its work is intentionally specialized and architecture-driven.
 
 ## Version
 
-Scope v3.0
-Date: 2026-11-08
+Scope v3.1
+Date: 2026-11-20
